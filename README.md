@@ -18,7 +18,7 @@ This repository includes my analysis on Credit Card Fraud Detection dataset. The
 
 ## Dataset
 
-Dataset taken from kaggle [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+Dataset taken from [kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 
 
